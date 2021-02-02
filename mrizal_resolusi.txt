@@ -1,5 +1,4 @@
 MRizal Resolusi :
-- Mulai Membangun perusahaan Forrestfull
 - Mulai Membangun Forrestfull Studio
 - Memulai dari Instagram
 - Menjalankan orderan dengan konsisten
@@ -8,3 +7,4 @@ MRizal Resolusi :
 - Membangun aplikasi play store "Forrestfull Studio"
 - Membuat Merch Shop
 - Kolaborasi dengan komunitas/daerah/tempat wisata/sekolah
+- Membuat blog
